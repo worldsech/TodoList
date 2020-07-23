@@ -1,0 +1,15 @@
+{
+  "name": "todo-mobile",
+  "version": "1.0.0",
+  "description": "This will help you plan your day. ",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "todoList"
+  },
+  "author": "",
+  "license": "ISC"
+}
